@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "usb_to_gpib-rescue")(type "Legacy")(uri "${KIPRJMOD}/usb_to_gpib-rescue.lib")(options "")(descr ""))
+  (lib (name "w_microcontrollers")(type "Legacy")(uri "${KIPRJMOD}/libs/./w_microcontrollers.lib")(options "")(descr ""))
+  (lib (name "PIC18F452")(type "Legacy")(uri "${KIPRJMOD}/libs/./PIC18F452.lib")(options "")(descr ""))
+  (lib (name "usb-b")(type "Legacy")(uri "${KIPRJMOD}/libs/usb-b.lib")(options "")(descr ""))
+  (lib (name "FT230X")(type "Legacy")(uri "${KIPRJMOD}/libs/FT230X.lib")(options "")(descr ""))
+  (lib (name "SN75160B")(type "Legacy")(uri "${KIPRJMOD}/libs/SN75160B.lib")(options "")(descr ""))
+  (lib (name "SN75162B")(type "Legacy")(uri "${KIPRJMOD}/libs/SN75162B.lib")(options "")(descr ""))
+  (lib (name "r_pack2")(type "Legacy")(uri "${KIPRJMOD}/libs/r_pack2.lib")(options "")(descr ""))
+)
